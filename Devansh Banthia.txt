@@ -1,0 +1,33 @@
+1. Write the title of your project.
+  Carrom Board
+2.What is the goal of the game? 
+To put all the tokens ( 4 red tokens and 1 yellow )inside the goals and score as much points as possible in less no of shots
+
+
+3.Write a brief story of your game.
+Due to the pandemic not able to go out and play so created this board game to pass time with family and friends .We are planning to create a digitalised version of the simple carrom board game in code.org.
+
+4.	Which are the playing characters of this game? 
+●	Playing characters are the ones who respond to the user based on the input from the user.
+
+our playing character is our player/striker.He Can strike the tokens and score points accordingly.It can even set its position and choose from how fast the striker can hit the tokens
+
+5.	Which are the Non-Playing Characters of this game?
+●	Non-Playing characters are the ones that don't have an action or behavior when the user interacts with the game.
+
+Tokens of 2 colours – red and yellow	We have to hit them in order to score
+board	Serves as background
+Borders help us send the striker back from the boundary
+
+Draw your imagination of this game. What does this game look like?
+
+How do you plan to make your game engaging? 
+Planning to add sounds and make it look like a real carrom game
+
+
+
+
+
+
+
+
